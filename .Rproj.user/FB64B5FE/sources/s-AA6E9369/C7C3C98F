@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587540954942.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2534653043",
+    "id" : "C7C3C98F",
+    "lastKnownWriteTime" : 1587540987,
+    "last_content_update" : 1587540987163,
+    "path" : "C:/Users/femjs/OneDrive - University of Bergen/bioCEED/WEB/bioSTATS/Rmarkdown/Rmarkdown-for-test-site/WebJS/Transforming_raw_data.Rmd",
+    "project_path" : "Transforming_raw_data.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,29",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

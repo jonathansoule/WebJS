@@ -11,3 +11,6 @@ Encoding: UTF-8
 
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
+
+BuildType: Website
+WebsitePath: C:/Users/femjs/OneDrive - University of Bergen/bioCEED/WEB/bioSTATS/Rmarkdown/Rmarkdown-for-test-site/WebJS
